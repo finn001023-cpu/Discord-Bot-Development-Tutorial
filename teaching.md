@@ -375,3 +375,29 @@ async def update_status():
 @update_status.before_loop
 async def before_update_status():
     await bot.wait_until_ready()
+
+
+Next Steps
+
+    Explore the discord.py documentation: https://discordpy.readthedocs.io/
+
+    Join the discord.py community: https://discord.gg/dpy
+
+    Practice by adding more features:
+
+        Music commands
+
+        Moderation tools
+
+        Games and entertainment
+
+        API integrations
+
+Remember to always test your bot thoroughly and follow Discord's Terms of Service and API guidelines
+
+
+
+
+
+
+
