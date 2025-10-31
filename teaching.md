@@ -395,6 +395,8 @@ Next Steps
 
 Remember to always test your bot thoroughly and follow Discord's Terms of Service and API guidelines
 
+Please refer to teaching.py for the tutorial
+
 
 
 
